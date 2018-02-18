@@ -1,2 +1,2 @@
-com\github\elwinbran\atos\atos\Main.class
-com\github\elwinbran\atos\atos\Bub.class
+net\atos_service\awp\SpringBootWebApplication.class
+net\atos_service\awp\WelcomeController.class
